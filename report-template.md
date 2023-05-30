@@ -7,7 +7,7 @@ When I tried to submit my Predictions I came to know that we cannot submit resul
 Thus to Submit my  predictions I had to Change all negative values of my predictions to 0.
 
 ### What was the top ranked model that performed?
-My top score achieved was 0.4835 by Model with hyperparameter Tunning.
+Top ranked model is model with additional features.
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
